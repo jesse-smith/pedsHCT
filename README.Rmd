@@ -16,6 +16,8 @@ knitr::opts_chunk$set(
 # pedsHCT
 
 <!-- badges: start -->
+[![Codecov test coverage](https://codecov.io/gh/jesse-smith/pedsHCT/branch/main/graph/badge.svg)](https://app.codecov.io/gh/jesse-smith/pedsHCT?branch=main)
+[![R-CMD-check](https://github.com/jesse-smith/pedsHCT/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/jesse-smith/pedsHCT/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of pedsHCT is to ...
