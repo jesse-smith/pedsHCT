@@ -1,0 +1,13 @@
+Package: pedsHCT
+Title: Web App for Individualized Prediction of Pediatric HCT Outcomes
+Version: 0.0.0.9000
+Authors@R: person('Jesse', 'Smith', email = 'jesse.smith@stjude.org', role = c('cre', 'aut'))
+Description: The pedsHCT package is currently a demo.
+License: LGPL-3
+Imports: 
+    config (>= 0.3.1),
+    golem (>= 0.3.3),
+    shiny (>= 1.7.2)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
