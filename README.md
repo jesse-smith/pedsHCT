@@ -1,27 +1,18 @@
----
-output: github_document
----
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-
-```{r, include = FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>",
-  fig.path = "man/figures/README-",
-  out.width = "100%"
-)
-```
 
 # pedsHCT
 
 <!-- badges: start -->
-[![Codecov test coverage](https://codecov.io/gh/jesse-smith/pedsHCT/branch/main/graph/badge.svg)](https://app.codecov.io/gh/jesse-smith/pedsHCT?branch=main)
+
+[![Codecov test
+coverage](https://codecov.io/gh/jesse-smith/pedsHCT/branch/main/graph/badge.svg)](https://app.codecov.io/gh/jesse-smith/pedsHCT?branch=main)
 [![R-CMD-check](https://github.com/jesse-smith/pedsHCT/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/jesse-smith/pedsHCT/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 `{pedsHCT}` is a web application that predicts and explains pediatric
-hematopoietic cell transplant (HCT) outcomes. It is currently only a demo.
+hematopoietic cell transplant (HCT) outcomes. It is currently only a
+demo.
 
 ## Installation
 
